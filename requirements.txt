@@ -1,0 +1,4 @@
+inputs==0.5
+mss==6.1.0
+matplotlib==3.3.4
+Pillow==8.1.2
